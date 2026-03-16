@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
       debugShowCheckedModeBanner: false,
-      title: 'BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER',
+      title: 'BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTERs',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomePage(),
     );
