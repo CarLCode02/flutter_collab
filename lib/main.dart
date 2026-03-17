@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class ScreenPlaceholder extends StatelessWidget {
   final String screenName;
 
